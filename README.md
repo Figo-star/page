@@ -3,8 +3,8 @@
 ![page — page your agent, it codes](assets/cover.png)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/lastknownstar-bot/page?style=social)](https://github.com/lastknownstar-bot/page/stargazers)
-[![Last commit](https://img.shields.io/github/last-commit/lastknownstar-bot/page)](https://github.com/lastknownstar-bot/page/commits/master)
+[![GitHub stars](https://img.shields.io/github/stars/Figo-star/page?style=social)](https://github.com/Figo-star/page/stargazers)
+[![Last commit](https://img.shields.io/github/last-commit/Figo-star/page)](https://github.com/Figo-star/page/commits/master)
 
 **Message your coding agent from your phone. It codes on your PC and texts back the result.**
 
