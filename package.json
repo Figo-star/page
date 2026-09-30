@@ -1,0 +1,10 @@
+{
+  "name": "page",
+  "version": "0.1.0",
+  "description": "Text your coding agent: Telegram bridge that runs opencode and replies.",
+  "type": "module",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  }
+}

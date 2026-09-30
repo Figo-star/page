@@ -1,0 +1,9 @@
+{
+  "projectDir": "C:/Users/User/OneDrive/Documents/Project/Repos",
+  "allowFrom": [123456789],
+  "agent": {
+    "cmd": "opencode",
+    "args": ["run", "--auto"],
+    "timeoutMs": 600000
+  }
+}
